@@ -18,7 +18,7 @@ This project is implemented in Go and does not require elevated privileges to ru
 2. Clone the [LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) project repository:
 
    ```shell
-   git clone [https://github.com/foucorelabs/loldriverscan.git](https://github.com/FourCoreLabs/LolDriverScan.git)
+   git clone https://github.com/FourCoreLabs/LolDriverScan.git
    ```
 
 3. Change into the project directory:
