@@ -13,6 +13,12 @@ This project is implemented in Go and does not require elevated privileges to ru
 
 ## Installation
 
+### Release
+
+Download the latest auto-generated release binary from [GitHub Releases](https://github.com/FourCoreLabs/LolDriverScan/releases). 
+
+### Build
+
 1. Make sure you have Go installed on your system. If not, you can download and install it from the official [Go website](https://golang.org/dl/)
 
 2. Clone the [LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) project repository:
